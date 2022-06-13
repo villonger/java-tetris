@@ -1,2 +1,3 @@
 # java-tetris
-a simple tetris clone made in java
+a simple tetris clone written in java
+GUI project for PJATK
